@@ -1,6 +1,7 @@
 <!DOCTYPE html>
 <head>
     <meta charset="utf-8"/>
+    <meta name="description" content="the nw project" />
     <title>the new project</title>
 </head>
 <body>
