@@ -2,7 +2,7 @@
 <head>
     <meta charset="utf-8"/>
     <meta name="description" content="the nw project" />
-    <title>the new project</title>
+    <title>project</title>
 </head>
 <body>
     <p>my name is:<b>mohamed</b> </p>
